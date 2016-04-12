@@ -17,3 +17,9 @@ ping one of the developers.
 Thank you for your contribution!
 
   -- Ganglia Development Team
+  
+  
+  
+python扩展插件
+
+现成可用扩展插件：
